@@ -1,0 +1,7 @@
+/venv
+/.env
+__pycache__/
+.env
+
+RAG/app/streamlit_chroma_db
+RAG/chroma_db
